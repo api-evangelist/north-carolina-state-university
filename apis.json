@@ -1,0 +1,47 @@
+{
+    "name": "North Carolina State University",
+    "description": "<p>I only found the library API, and the dining API. I could tell there was more APIs somewhere, but will need to dig deeper.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/north-carolina-state-university.png",
+    "tags": [
+        "api provider",
+        "have api",
+        "universities",
+        "university in progress",
+        "university library"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/north-carolina-state-university\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "North Carolina State University",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/north-carolina-state-university.png",
+            "humanURL": "https:\/\/www.ncsu.edu\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/north-carolina-state-university-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/north-carolina-state-university-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.lib.ncsu.edu\/catalog\/ws\/"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.ncsu.edu\/"
+        }
+    ]
+}
